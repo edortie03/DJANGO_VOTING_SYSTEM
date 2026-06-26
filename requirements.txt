@@ -1,4 +1,8 @@
 asgiref==3.11.1
+<<<<<<< HEAD
 Django==5.2.15
+=======
+Django==6.0.5
+>>>>>>> a057864e14b00c932a8c35ba015c075ee47f06d7
 sqlparse==0.5.5
 tzdata==2026.2
